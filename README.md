@@ -1,4 +1,4 @@
-# Trustworthy AI - HW1 (Generalization and Robustness)
+# Generalization and Robustness
 ## Generalization:
 **Objective**: Improve the generalization capabilities of a neural network model, specifically ResNet18.
 
